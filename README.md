@@ -19,7 +19,7 @@ O jogo termina quando todos os pares forem encontrados.
 
 # 📸 Preview
 
-[Jogo da memória](https://web.dio.me/home).
+[Jogo da memória](https://gustavobarretolima.github.io/jogo-da-memoria/).
 
 # 📄 Licença
 
