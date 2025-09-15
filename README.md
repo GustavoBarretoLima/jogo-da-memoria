@@ -24,3 +24,10 @@ O jogo termina quando todos os pares forem encontrados.
 # 📄 Licença
 
 Este projeto está sob a licença MIT. Veja o arquivo LICENSE para mais detalhes.
+
+# 📫 Contato
+
+📫 [LinkedIn](https://www.linkedin.com/in/gustavo-barreto-5341a9217)
+📫 Email: gustavobarretolima@gmail.com
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GustavoBarretoLima&layout=compact&theme=radical)](https://github.com/GustavoBarretoLima)
